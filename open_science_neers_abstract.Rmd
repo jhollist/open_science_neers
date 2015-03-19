@@ -1,0 +1,15 @@
+---
+title: 'Open Science: Where social media and science meet'
+author: "Jeff W. Hollister"
+date: "3/19/2015"
+output: word_document
+---
+
+What is Open Science
+
+A case study, me... My evolution to an open scientist
+
+Open Source Geospatial Tools
+
+Social Media
+
