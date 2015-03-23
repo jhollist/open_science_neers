@@ -1,15 +1,8 @@
 ---
-title: 'Open Science: Where social media and science meet'
+title: 'Open Science: A Zealots View'
 author: "Jeff W. Hollister"
 date: "3/19/2015"
 output: word_document
 ---
 
-What is Open Science
-
-A case study, me... My evolution to an open scientist
-
-Open Source Geospatial Tools
-
-Social Media
-
+Open science encompasses many concepts, but most agree that for science to be open four things must be true. First, all components of the scientific project must be freely available including manuscripts, code, and data.  Second, others must be able to repeat your work and reproduce the results.  Third, open science, as it is currently known, is a product of the interenet age and thus open science needs to be web enabled.  Lastly, opening ones science is expected to be a process.  In this talk, I am going to address each of these components.  I am going to do this entirely from my own perspective and talk about how I have progressively opened up my science, the benefits to doing that, and describe the tools I have used.  In this last part, I will focus on how I used the web and how I have used open source geospatial tools. 
