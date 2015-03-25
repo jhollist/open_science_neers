@@ -1,7 +1,7 @@
 ---
-title: 'Open Science: A Zealots View'
+title: 'Open Science: A Zealot's View'
 author: "Jeff W. Hollister"
-date: "3/19/2015"
+date: "3/25/2015"
 output: word_document
 keywords: ["open science","open source","open access","open data","twitter","github","reproducible research"]
 ---
