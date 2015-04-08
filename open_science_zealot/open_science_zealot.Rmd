@@ -5,14 +5,35 @@ author: "Jeff Hollister, USEPA"
 output: 
   slidy_presentation:
     css: jwh_slidy.css
+    font_adjustment: +5
+    footer: "Jeffrey W. Hollister, <a href=http://twitter.com/jhollist>@jhollist</a>"
 ---
 
-## R Markdown
+# What is Open Science {.img-right}
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+> - Access to Materials
+> - Reproducible
+> - The Web!
+> - A Process, not a state
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Image {.segue}
+<img style="margin-top: -300; margin-right: 10">figure/unnamed-chunk-2-1.png</img>
+
+
+# Open Source 
+
+# Open Access
+
+# Open Data
+
+# The Web!
+
+# How I became a Zealot
+
+> - Social Media
+> - GitHub
+> - Open Source Tools
+
+# {.segue}
 
 ![cat_watermelon](figure/cat-pushing-watermelon-out-of-lake.jpg)
