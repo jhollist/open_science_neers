@@ -1,11 +1,10 @@
 ---
 title: "Open Science"
 subtitle: "A Zealot's View"
-author: Jeff Hollister
-job: US EPA, Research Ecologist
+author: "Jeff Hollister, USEPA"
 output: 
-  ioslides_presentation:
-    logo: epa-seal.png
+  slidy_presentation:
+    css: jwh_slidy.css
 ---
 
 ## R Markdown
@@ -14,21 +13,6 @@ This is an R Markdown presentation. Markdown is a simple formatting syntax for a
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+## Slide with Image {.segue}
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Code and Output
-
-```{r}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
+![cat_watermelon](figure/cat-pushing-watermelon-out-of-lake.jpg)
