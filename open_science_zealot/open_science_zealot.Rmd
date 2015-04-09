@@ -12,13 +12,11 @@ output:
 # What is Open Science {.img-right}
 
 > - Access to Materials
-> - Reproducible
+> - Reproducible/Repeatable
 > - The Web!
 > - A Process, not a state
 
-
-<img style="margin-top: -300; margin-right: 10">figure/unnamed-chunk-2-1.png</img>
-
+![img](figure/unnamed-chunk-2-1.png)
 
 # Open Source 
 
@@ -33,6 +31,18 @@ output:
 > - Social Media
 > - GitHub
 > - Open Source Tools
+
+# Social Media
+
+# GitHub
+
+# Open Source GIS
+
+# R
+
+# Online Identity
+
+# Does any of this matter?
 
 # {.segue}
 
