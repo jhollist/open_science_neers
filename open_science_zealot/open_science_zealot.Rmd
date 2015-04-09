@@ -1,24 +1,33 @@
 ---
-title: "Open Science"
-subtitle: "A Zealot's View"
+title: "open science:"
+subtitle: "a zealot's view"
 author: "Jeff Hollister, USEPA"
+date: April 17, 2015
+twitter: jhollist 
 output: 
   slidy_presentation:
     css: jwh_slidy.css
-    font_adjustment: +5
-    footer: "Jeffrey W. Hollister, <a href=http://twitter.com/jhollist>@jhollist</a>"
+    template: default.html
+    
 ---
 
-# What is Open Science {.img-right}
+# What is Open Science 
 
-> - Access to Materials
-> - Reproducible/Repeatable
-> - The Web!
-> - A Process, not a state
+<div class="right", style="width: 55%; right: 400px; top: 200px;"> 
+![img](figure/open_sign_4344960203_821cb56ec9_o_resize.jpg)
+</div>
 
-![img](figure/unnamed-chunk-2-1.png)
+<div class="left" style="width: 40%">
+ - Access to Materials     
+ - Reproducible/ Repeatable    
+ - The Web!                   
+ - A Process, not a state                       
+</div>
 
-# Open Source 
+
+# {.segue-img}
+
+![bart](figure/Bartopen-1.jpg)
 
 # Open Access
 
@@ -28,11 +37,11 @@ output:
 
 # How I became a Zealot
 
-> - Social Media
+> - Twitter
 > - GitHub
 > - Open Source Tools
 
-# Social Media
+# Twitter
 
 # GitHub
 
@@ -44,6 +53,6 @@ output:
 
 # Does any of this matter?
 
-# {.segue}
+# {.segue-img}
 
 ![cat_watermelon](figure/cat-pushing-watermelon-out-of-lake.jpg)

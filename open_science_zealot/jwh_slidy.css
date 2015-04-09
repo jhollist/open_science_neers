@@ -1,29 +1,100 @@
 /*jwh Slidy Style Overrides: JW Hollister, April 2015*/
 /* All other styles and functions are from default slidy style in RStudio*/
 
+/*****************************************************************************/
+/* Title Slide
+/*****************************************************************************/
+div.slide h1.title {
+  color: #4A5B63;
+  font-size: 80pt;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+img.logo {
+  width: 10%;
+  height: auto;
+  position: absolute;
+  bottom: 50px;
+  right: 25px;
+}
+
+div.slide h1.subtitle {
+  color: #4A5B63;
+  font-size: 60pt;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+p.author {
+  color: #4A5B63;
+  font-size: 40pt;
+  text-align: left;
+}
+
+p.date {
+  color: #4A5B63;
+  font-size: 30pt;
+  text-align: left;
+  position: absolute;
+  bottom: 50px;
+}
+
+p.twitter {
+  color: #4A5B63;
+  font-size: 40pt;
+  text-align: left;
+}
+}
 
 /*****************************************************************************/
 /* General Slides
 /*****************************************************************************/
 div h1 {
   color: #559B6A;
+  font-size: 40pt;
 }
 
-
+div.slide {
+  font-family: "Lucida Console";
+  font-size: 30pt;
+  padding-top: 50px;
+  padding-left: 50px;
+}
 
 /*****************************************************************************/
-/* Segue Slides
+/* Left Right
 /*****************************************************************************/
-div.segue  h1 {
+
+div.left {
+  float: left;
+  width: 45%;
+  margin: 0;
+  padding: 0;
+}
+
+div.right {
+  float: right;
+  width: 45%;
+  margin: 0;
+  padding: 0;
+}
+
+/*****************************************************************************/
+/* Segue Slides both .segue-img and .segue-txt
+/*****************************************************************************/
+div.segue-img  h1 {
   color: white;
-  font-size: 50pt;
+  font-size: 80pt;
   font-weight: bold;
   position: absolute;
   margin-top: 30%;
   margin-left: 10%;
 }
 
-div.segue img {
+div.segue-img img {
   /* Borrowed from: https://css-tricks.com/perfect-full-page-background-image/*/
   
   /* Set rules to fill background */
@@ -40,13 +111,31 @@ div.segue img {
   
 }
 
-div.segue p {
+div.segue-img p {
   margin: 0px;
   padding: 0px;
 }
 
-div.segue {
+div.segue-img {
   padding: 0px;
+}
+
+div.segue-txt  h1 {
+  font-size: 120pt;
+  font-weight: bold;
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 10%;
+  text-shadow: 4px 4px #929DA1;
+  color: #356595;
+}
+
+div.segue-txt {
+  /*background: -webkit-linear-gradient(#356595,#4A5B63); /* For Safari 5.1 to 6.0 */
+  /*background: -o-linear-gradient(#356595,#4A5B63); /* For Opera 11.1 to 12.0 */
+  /*background: -moz-linear-gradient(#356595,#4A5B63); /* For Firefox 3.6 to 15 */
+  /*background: linear-gradient(#356595,#4A5B63); /* Standard syntax */
+  background-color: #4A5B63;
 }
 
 /*****************************************************************************/
@@ -97,7 +186,6 @@ div.img-right img {
 /*****************************************************************************/
 
 div.img-left img {
-  position: absolute; 
   top: 10%; 
   left: 10%;
 }
