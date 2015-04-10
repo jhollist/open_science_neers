@@ -4,6 +4,7 @@ subtitle: "a zealot's view"
 author: "Jeff Hollister, USEPA"
 date: April 17, 2015
 twitter: jhollist 
+coverpic: figure/The_Tragic_Prelude_HD-SN-99-01774.jpg
 output: 
   slidy_presentation:
     css: jwh_slidy.css

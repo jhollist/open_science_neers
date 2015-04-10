@@ -20,6 +20,14 @@ img.logo {
   right: 25px;
 }
 
+img.coverpic {
+  height: 60%;
+  width: auto;
+  position: absolute;
+  bottom: 150px;
+  right: 150px;
+}
+
 div.slide h1.subtitle {
   color: #4A5B63;
   font-size: 60pt;
