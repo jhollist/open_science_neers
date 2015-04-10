@@ -12,20 +12,20 @@ div.slide h1.title {
   margin: 0px;
 }
 
-img.logo {
+div.logo img {
   width: 10%;
   height: auto;
   position: absolute;
-  bottom: 50px;
-  right: 25px;
+  top: 76%;
+  right: 2%;
 }
 
-img.coverpic {
-  height: 60%;
+div.coverpic img {
+  height: 50%;
   width: auto;
   position: absolute;
-  bottom: 150px;
-  right: 150px;
+  top: 25%;
+  left: 3%;
 }
 
 div.slide h1.subtitle {
@@ -40,6 +40,9 @@ p.author {
   color: #4A5B63;
   font-size: 40pt;
   text-align: left;
+  position: absolute;
+  top: 76%;
+  right: 0%;
 }
 
 p.date {
@@ -47,15 +50,19 @@ p.date {
   font-size: 30pt;
   text-align: left;
   position: absolute;
-  bottom: 50px;
+  top: 89%;
+  right: 1%;
 }
 
 p.twitter {
   color: #4A5B63;
   font-size: 40pt;
   text-align: left;
+  position: absolute;
+  top: 82%;
+  right: 0%;
 }
-}
+
 
 /*****************************************************************************/
 /* General Slides
