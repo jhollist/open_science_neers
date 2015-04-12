@@ -6,7 +6,7 @@
 /*****************************************************************************/
 div.slide h1.title {
   color: #4A5B63;
-  font-size: 80pt;
+  font-size: 60pt;
   text-align: left;
   padding: 0px;
   margin: 0px;
@@ -21,16 +21,16 @@ div.logo img {
 }
 
 div.coverpic img {
-  height: 50%;
+  height: 55%;
   width: auto;
   position: absolute;
-  top: 25%;
-  left: 3%;
+  top: 35%;
+  left: 4%;
 }
 
 div.slide h1.subtitle {
   color: #4A5B63;
-  font-size: 60pt;
+  font-size: 45pt;
   text-align: left;
   padding: 0px;
   margin: 0px;
@@ -38,28 +38,28 @@ div.slide h1.subtitle {
 
 p.author {
   color: #4A5B63;
-  font-size: 40pt;
+  font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 76%;
+  top: 72%;
   right: 0%;
 }
 
 p.date {
   color: #4A5B63;
-  font-size: 30pt;
+  font-size: 23pt;
   text-align: left;
   position: absolute;
-  top: 89%;
+  top: 85%;
   right: 1%;
 }
 
 p.twitter {
   color: #4A5B63;
-  font-size: 40pt;
+  font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 82%;
+  top: 78%;
   right: 0%;
 }
 
@@ -69,12 +69,12 @@ p.twitter {
 /*****************************************************************************/
 div h1 {
   color: #559B6A;
-  font-size: 40pt;
+  font-size: 30pt;
 }
 
 div.slide {
   font-family: "Lucida Console";
-  font-size: 30pt;
+  font-size: 23pt;
   padding-top: 50px;
   padding-left: 50px;
 }
@@ -102,7 +102,7 @@ div.right {
 /*****************************************************************************/
 div.segue-img  h1 {
   color: white;
-  font-size: 80pt;
+  font-size: 60pt;
   font-weight: bold;
   position: absolute;
   margin-top: 30%;
@@ -136,7 +136,7 @@ div.segue-img {
 }
 
 div.segue-txt  h1 {
-  font-size: 120pt;
+  font-size: 90pt;
   font-weight: bold;
   position: absolute;
   margin-top: 30%;

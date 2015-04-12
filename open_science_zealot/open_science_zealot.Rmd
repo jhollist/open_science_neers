@@ -25,16 +25,13 @@ output:
  - A Process, not a state                       
 </div>
 
+# Open Source {.segue-txt}
 
-# {.segue-img}
+# Open Data {.segue-txt}
 
-![bart](figure/Bartopen-1.jpg)
+# Open Access {.segue-txt}
 
-# Open Access
-
-# Open Data
-
-# The Web!
+# The Web! {.segue-txt}
 
 # How I became a Zealot
 
@@ -42,17 +39,17 @@ output:
 > - GitHub
 > - Open Source Tools
 
-# Twitter
+# Twitter {.segue-txt}
 
-# GitHub
+# GitHub {.segue-txt}
 
-# Open Source GIS
+# Open Source GIS {.segue-txt}
 
-# R
+# R {.segue-txt}
 
-# Online Identity
+# Online Identity {.segue-txt}
 
-# Does any of this matter?
+# Does any of this matter? {.segue-txt}
 
 # {.segue-img}
 
