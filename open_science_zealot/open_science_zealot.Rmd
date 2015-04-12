@@ -14,11 +14,11 @@ output:
 
 # What is Open Science 
 
-<div class="right", style="width: 60%; right: 400px; top: 200px;"> 
+<div class="right", style="width: 50%; position: absolute; left: 540px; top: 150px;"> 
 ![img](figure/open_sign_4344960203_821cb56ec9_o_resize.jpg)
 </div>
 
-<div class="left" style="width: 40%">
+<div class="left" style="width: 35%">
  - Access to Materials     
  - Reproducible/ Repeatable    
  - The Web!                   
