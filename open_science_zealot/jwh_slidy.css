@@ -13,19 +13,19 @@ div.slide h1.title {
 }
 
 div.logo img {
-  width: 10%;
+  width: 130px;
   height: auto;
   position: absolute;
-  top: 76%;
-  right: 2%;
+  top: 580px;
+  right: 30px;
 }
 
 div.coverpic img {
-  height: 55%;
+  height: 400px;
   width: auto;
   position: absolute;
-  top: 35%;
-  left: 4%;
+  top: 270px;
+  left: 50px;
 }
 
 div.slide h1.subtitle {
@@ -41,8 +41,8 @@ p.author {
   font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 72%;
-  right: 0%;
+  top: 552px;
+  right: 0px;
 }
 
 p.date {
@@ -50,8 +50,8 @@ p.date {
   font-size: 23pt;
   text-align: left;
   position: absolute;
-  top: 85%;
-  right: 1%;
+  top: 652px;
+  right: 7px;
 }
 
 p.twitter {
@@ -59,8 +59,8 @@ p.twitter {
   font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 78%;
-  right: 0%;
+  top: 599px;
+  right: 0px;
 }
 
 
@@ -85,14 +85,14 @@ div.slide {
 
 div.left {
   float: left;
-  width: 45%;
+  width: 350px;
   margin: 0;
   padding: 0;
 }
 
 div.right {
   float: right;
-  width: 45%;
+  width: 350px;
   margin: 0;
   padding: 0;
 }
@@ -105,20 +105,15 @@ div.segue-img  h1 {
   font-size: 60pt;
   font-weight: bold;
   position: absolute;
-  margin-top: 30%;
+  margin-top: 230px;
   margin-left: 10%;
 }
 
 div.segue-img img {
-  /* Borrowed from: https://css-tricks.com/perfect-full-page-background-image/*/
   
   /* Set rules to fill background */
-  min-height: 100%;
-  min-width: 1024px;
-  
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
+  height: 768px;
+  width: 1360px;
 	
   /* Kill padding */
   margin: 0px;
@@ -139,8 +134,8 @@ div.segue-txt  h1 {
   font-size: 90pt;
   font-weight: bold;
   position: absolute;
-  margin-top: 30%;
-  margin-left: 10%;
+  top: 230px;
+  left: 130px;
   text-shadow: 4px 4px #929DA1;
   color: #356595;
 }
@@ -192,8 +187,8 @@ table tr > td:first-child {
 
 div.img-right img {
   position: absolute; 
-  top: 10%; 
-  left: 50%;
+  top: 76px; 
+  left: 680px;
 }
 
 /*****************************************************************************/
@@ -201,6 +196,6 @@ div.img-right img {
 /*****************************************************************************/
 
 div.img-left img {
-  top: 10%; 
-  left: 10%;
+  top: 76px; 
+  left: 14px;
 }
