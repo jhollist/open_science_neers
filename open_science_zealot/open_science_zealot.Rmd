@@ -25,14 +25,11 @@ output:
  - A Process, not a state                       
 </div>
 
-
-# {.segue-img}
-
-![bart](figure/Bartopen-1.jpg)
-
 # Open Access
 
 # Open Data
+
+# Open Source {.segue-txt}
 
 # The Web!
 
