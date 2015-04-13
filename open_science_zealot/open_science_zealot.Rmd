@@ -12,7 +12,9 @@ output:
     
 ---
 
-# What is Open Science 
+# what is open science> {.segue-txt}
+
+# what is open science? 
 
 <div class="right" style="left: 480px;"> 
 ![img](figure/open_sign_4344960203_821cb56ec9_o_resize.jpg)
@@ -25,32 +27,73 @@ output:
  - A Process, not a state                       
 </div>
 
-# Open Access {.segue-txt}
+# why open? {.segue-txt}
 
-# Open Source {.segue-txt}
+# why open?
 
-# Open Data {.segue-txt}
+<div class="right" style="left: 750px; top: 50px; width: 300px; height: auto;"> 
+![img](figure/required_logos.jpg)
+</div>
 
-# The Web! {.segue-txt}
+<div class="left" style="left:150px;">
+ - Government
+     - Feb 2013
+     - John Holdren, White House OSTP
+ - Funders    
+     - NSF
+ - Publishers
+     - PLoS
+</div>
 
-# How I became a Zealot
+# why open?
 
-> - Twitter
-> - GitHub
-> - Open Source Tools
+ - Keeps us honest
+ - Prevents this ...
 
-# Twitter {.segue-txt}
+<!--
+ ![Ethan White/Tim Poisoit No data tweet](figure/white_poisot_tweet.jpg)
+!-->
 
-# GitHub {.segue-txt}
+# how do you do open science? {.segue-txt} 
 
-# Open Source GIS {.segue-txt}
+# how: open access
+
+# how: open source
+
+# how: open data
+
+# how: the web!
+
+# becoming a zealot {.segue.txt}
+
+# becoming a zealot
+
+ - Twitter
+ - GitHub
+ - Open Source Tools
+     - Geospatial
+     - R
+     
+# twitter {.segue-txt}
+
+# github {.segue-txt}
+
+# geospatial tools {.segue-txt}
 
 # R {.segue-txt}
 
-# Online Identity {.segue-txt}
+# tangent: online identity {.segue-txt}
 
-# Does any of this matter? {.segue-txt}
+# does it matter? {.segue-txt}
 
-# {.segue-img}
+# does it matter?
 
-![cat_watermelon](figure/cat-pushing-watermelon-out-of-lake.jpg)
+ - Open Data = More citations [(Piwowar et al. 2007)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)
+ - Up-to-date statistics on readership [(e.g. PLOS ALM)](http://article-level-metrics.plos.org/)
+ - Accelerates research and discoveries [(e.g. Woelfle et al. 2011)](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html)
+ 
+ 
+ <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
+
+ <div style="font-size: 16pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
+
