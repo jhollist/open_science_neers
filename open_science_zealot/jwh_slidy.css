@@ -85,14 +85,22 @@ div.slide {
 
 div.left {
   float: left;
-  width: 350px;
+  width: 400px;
+  height: auto;
+  position: absolute;
+  left: 50px;
+  top: 150px;
   margin: 0;
   padding: 0;
 }
 
 div.right {
   float: right;
-  width: 350px;
+  width: 400px;
+  height: auto;
+  position: absolute;
+  left: 733px;
+  top: 150px;
   margin: 0;
   padding: 0;
 }
@@ -112,8 +120,8 @@ div.segue-img  h1 {
 div.segue-img img {
   
   /* Set rules to fill background */
-  height: 768px;
-  width: 1360px;
+  min-height: 768px;
+  min-width: 1366px;
 	
   /* Kill padding */
   margin: 0px;
@@ -136,8 +144,8 @@ div.segue-txt  h1 {
   position: absolute;
   top: 230px;
   left: 130px;
-  text-shadow: 4px 4px #929DA1;
-  color: #356595;
+  text-shadow: 3px 3px #E3E9F0;
+  color: #2E3B48;
 }
 
 div.segue-txt {
@@ -145,7 +153,7 @@ div.segue-txt {
   /*background: -o-linear-gradient(#356595,#4A5B63); /* For Opera 11.1 to 12.0 */
   /*background: -moz-linear-gradient(#356595,#4A5B63); /* For Firefox 3.6 to 15 */
   /*background: linear-gradient(#356595,#4A5B63); /* Standard syntax */
-  background-color: #4A5B63;
+  background-color: #808C92;
 }
 
 /*****************************************************************************/
