@@ -25,11 +25,11 @@ output:
  - A Process, not a state                       
 </div>
 
+# Open Access {.segue-txt}
+
 # Open Source {.segue-txt}
 
 # Open Data {.segue-txt}
-
-# Open Access {.segue-txt}
 
 # The Web! {.segue-txt}
 
