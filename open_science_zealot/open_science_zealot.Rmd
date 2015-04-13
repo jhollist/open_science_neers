@@ -14,24 +14,24 @@ output:
 
 # What is Open Science 
 
-<div class="right", style="width: 60%; right: 400px; top: 200px;"> 
+<div class="right", style="width: 50%; position: absolute; left: 540px; top: 150px;"> 
 ![img](figure/open_sign_4344960203_821cb56ec9_o_resize.jpg)
 </div>
 
-<div class="left" style="width: 40%">
+<div class="left" style="width: 35%">
  - Access to Materials     
  - Reproducible/ Repeatable    
  - The Web!                   
  - A Process, not a state                       
 </div>
 
-# Open Access
-
-# Open Data
-
 # Open Source {.segue-txt}
 
-# The Web!
+# Open Data {.segue-txt}
+
+# Open Access {.segue-txt}
+
+# The Web! {.segue-txt}
 
 # How I became a Zealot
 
@@ -39,17 +39,17 @@ output:
 > - GitHub
 > - Open Source Tools
 
-# Twitter
+# Twitter {.segue-txt}
 
-# GitHub
+# GitHub {.segue-txt}
 
-# Open Source GIS
+# Open Source GIS {.segue-txt}
 
-# R
+# R {.segue-txt}
 
-# Online Identity
+# Online Identity {.segue-txt}
 
-# Does any of this matter?
+# Does any of this matter? {.segue-txt}
 
 # {.segue-img}
 
