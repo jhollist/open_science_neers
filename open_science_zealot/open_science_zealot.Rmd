@@ -73,8 +73,36 @@ output:
   ![open_access](figure/oa_journals.jpg)
 
 # how: open source
+  
+<div class="left" style="left:150px; width: 525px;">
+  - FOSS
+      - Free
+          - speech, not beer
+          - but often also beer
+      - Open Source
+  - MANY examples
+      - QGIS
+      - GRASS
+      - R
+      - Python
+      - RStudio
+      - Linux
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![open_access](figure/opensource_logos.jpg)
+</div>
 
 # how: open data
+<div class="left" style="left:150px; width: 525px;">
+- Gradient of open data
+- Web API
+- Formal Linked Open Data
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<img alt="lod_mug" src="figure/LinkedDataMug.jpg" style="width: 600px;">
+</div>
 
 # how: the web!
 
@@ -111,3 +139,6 @@ output:
 
  <div style="font-size: 16pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
 
+# does it matter?
+
+ - Plos Article metrics since boosting activity
