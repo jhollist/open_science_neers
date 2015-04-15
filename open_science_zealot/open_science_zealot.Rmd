@@ -120,16 +120,73 @@ output:
 
 # becoming a zealot
 
+<div class="left" style="left:150px; width: 525px;">
  - Twitter
  - GitHub
  - Open Source Tools
      - Geospatial
      - R
-     
+</div>
+
+<div class="right" style="left: 500px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_assimilated](figure/Assimilated.jpg)
+  <div style="font-size: 12pt;">image credit: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg) </div>
+</div>
+
 # twitter {.segue-txt}
 
-# github {.segue-txt}
+# twitter
 
+<div class="left" style="left:150px; width: 525px;">
+  - Micro-blogging site
+  - Limited to 140 Characters
+  - Purpose: Share what you want, but keep it short (my definition)
+  - Followers, Following, Tweets, handles, hashtags
+      - @jhollist
+      - @AJO4444
+      - @CoastalSociety
+      - \#openscience
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_hashtag](figure/hashtag.jpg)
+  <div style="font-size: 12pt;">image credit: [indeterminate/twitpic](https://twitpic.com/dgj4t6) </div>
+</div>
+
+# twitter for science
+
+<div class="left" style="left:150px; width: 525px;">
+ - collaborations
+     - @ropensci
+     - @softwarecarpentry
+     - @datacarpentry
+     - @MozillaScience
+ - \#icanhazpdf
+ - \#rstats
+ - live-tweet meetings
+     - \#neers2015
+     - \#openscience
+ - low time investment
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_onion](figure/twitter_onion.jpg)
+  <div style="font-size: 12pt;">image credits: [The Onion](https://twitter.com/TheOnion/status/588041206673895424)
+  </div>
+</div>
+
+# GitHub {.segue-txt}
+
+# GitHub
+
+<div class="left" style="left:150px; width: 525px;">
+  - social coding/collaborating
+  - Not just code
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+![jhollist_github](figure/jwh_github.jpg)
+</div>
 # geospatial tools {.segue-txt}
 
 # R {.segue-txt}
