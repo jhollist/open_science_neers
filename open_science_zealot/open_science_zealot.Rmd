@@ -182,17 +182,68 @@ output:
 <div class="left" style="left:150px; width: 525px;">
   - social coding/collaborating
   - Not just code
+      - Any text
+  - Social component
+  
 </div>
 
 <div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
-![jhollist_github](figure/jwh_github.jpg)
+[![jhollist_github](figure/jwh_github.jpg)](http://github.com/jhollist)
 </div>
+
 # geospatial tools {.segue-txt}
+
+# geospatial tools
+ 
+ - Open source GIS
+     - [GRASS](http://grass.osgeo.org/) 
+     - [QGIS](http://www.qgis.org/en/site/about/features.html)
+     - [GeoServer](http://geoserver.org/)
+ - javascript
+     - [leaflet](http://leafletjs.com/)
+     - [D3](http://d3js.org/)
+     - [Turf.js](http://turfjs.org/)
 
 # R {.segue-txt}
 
+# R
+
+ - Free environment for statistical computing
+ - Best known for:
+     - stats
+     - visualization
+ - 
+ - http://www.r-project.org/
+ 
+
+# R
+
+  - My one stop shop
+  - Writing
+  - Presentations
+  - Analysis
+  - All my geospatial work
+  
 # tangent: online identity {.segue-txt}
 
+# online identity
+
+> If you are not curating your online identity, 
+> someone or something else is doing it for you.
+> - Jarrett Byrnes, 
+> <span><a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a></span>
+
+# online identity
+
+  - [Google Scholar]()
+  - [Personal Webpage](http://jwhollister.com)
+  - Blog
+  - Twitter
+  - Social Networks
+      - Facebook
+      - Linked-in
+      - ResearchGate
+  
 # does it matter? {.segue-txt}
 
 # does it matter?
@@ -200,7 +251,6 @@ output:
  - Open Data = More citations [(Piwowar et al. 2007)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)
  - Up-to-date statistics on readership [(e.g. PLOS ALM)](http://article-level-metrics.plos.org/)
  - Accelerates research and discoveries [(e.g. Woelfle et al. 2011)](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html)
- 
  
  <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
 
