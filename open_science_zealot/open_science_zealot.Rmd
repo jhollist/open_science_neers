@@ -9,51 +9,253 @@ output:
   slidy_presentation:
     css: jwh_slidy.css
     template: default.html
-    
 ---
 
-# What is Open Science 
+# what is open science? {.segue-txt}
 
-<div class="right", style="width: 60%; right: 500px; top: 200px;"> 
+# what is open science? 
+
+<div class="right" style="left: 480px;"> 
 ![img](figure/open_sign_4344960203_821cb56ec9_o_resize.jpg)
 </div>
 
-<div class="left" style="width: 40%">
- - Access to Materials     
+<div class="left">
+ - Access to materials     
  - Reproducible/ Repeatable    
  - The Web!                   
- - A Process, not a state                       
+ - A process, not a state                       
 </div>
 
+# why open? {.segue-txt}
 
-# {.segue-img}
+# why open?
 
-![bart](figure/Bartopen-1.jpg)
+<div class="right" style="left: 750px; top: 50px; width: 300px; height: auto;"> 
+![img](figure/required_logos.jpg)
+</div>
 
-# Open Access
+<div class="left" style="left:150px;">
+ - Government
+     - Feb 2013
+     - John Holdren, White House OSTP
+ - Funders    
+     - NSF
+ - Publishers
+     - PLoS
+</div>
 
-# Open Data
+# why open?
 
-# The Web!
+ - Keeps us honest
+ - Prevents this ...
 
-# How I became a Zealot
+ ![Ethan White/Tim Poisoit No data tweet](figure/whyOpenSciTweet.jpg)
 
-> - Twitter
-> - GitHub
-> - Open Source Tools
+# how do you do open science? {.segue-txt} 
 
-# Twitter
+# how: open access
+
+<div class="left" style="left:150px;">
+  - Online
+  - Available to all
+  - Types:
+      - Green
+      - Gold
+      - Hybrid
+</div>
+
+<div class="right" style="left: 750px; top: 50px; width: 250px; height: auto;"> 
+  ![open_access](figure/oa.jpg)
+</div>
+
+# how: open access
+
+  ![open_access](figure/oa_journals.jpg)
+
+# how: open source
+  
+<div class="left" style="left:150px; width: 525px;">
+  - FOSS
+      - Free
+          - speech, not beer
+          - but often also beer
+      - Open Source
+  - MANY examples
+      - QGIS
+      - GRASS
+      - R
+      - Python
+      - RStudio
+      - Linux
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![open_access](figure/opensource_logos.jpg)
+</div>
+
+# how: open data
+<div class="left" style="left:150px; width: 525px;">
+- Gradient of open data
+- APIs
+- Formal Linked Open Data
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<img alt="lod_mug" src="figure/LinkedDataMug.jpg" style="width: 600px;">
+</div>
+
+# how: the web!
+
+<div class="left" style="left:150px; width: 525px;">
+ - Old concepts
+ - New tools
+ - New implementation
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![web_graph](figure/Internet_map_1024_-_transparent.png)
+  <div style="font-size: 12pt;">image credit: [opte.org](http://www.opte.org/maps/) </div>
+</div>
+# becoming a zealot {.segue-txt}
+
+# becoming a zealot
+
+<div class="left" style="left:150px; width: 525px;">
+ - Twitter
+ - GitHub
+ - Open Source Tools
+     - Geospatial
+     - R
+</div>
+
+<div class="right" style="left: 500px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_assimilated](figure/Assimilated.jpg)
+  <div style="font-size: 12pt;">image credit: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg) </div>
+</div>
+
+# twitter {.segue-txt}
+
+# twitter
+
+<div class="left" style="left:150px; width: 525px;">
+  - Micro-blogging site
+  - Limited to 140 Characters
+  - Purpose: Share what you want, but keep it short (my definition)
+  - Followers, Following, Tweets, handles, hashtags
+      - @jhollist
+      - @AJO4444
+      - @CoastalSociety
+      - \#openscience
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_hashtag](figure/hashtag.jpg)
+  <div style="font-size: 12pt;">image credit: [indeterminate/twitpic](https://twitpic.com/dgj4t6) </div>
+</div>
+
+# twitter for science
+
+<div class="left" style="left:150px; width: 525px;">
+ - collaborations
+     - @ropensci
+     - @softwarecarpentry
+     - @datacarpentry
+     - @MozillaScience
+ - \#icanhazpdf
+ - \#rstats
+ - live-tweet meetings
+     - \#neers2015
+     - \#openscience
+ - low time investment
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![twitter_onion](figure/twitter_onion.jpg)
+  <div style="font-size: 12pt;">image credits: [The Onion](https://twitter.com/TheOnion/status/588041206673895424)
+  </div>
+</div>
+
+# GitHub {.segue-txt}
 
 # GitHub
 
-# Open Source GIS
+<div class="left" style="left:150px; width: 525px;">
+  - social coding/collaborating
+  - Not just code
+      - Any text
+  - Social component
+  
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+[![jhollist_github](figure/jwh_github.jpg)](http://github.com/jhollist)
+</div>
+
+# geospatial tools {.segue-txt}
+
+# geospatial tools
+ 
+ - Open source GIS
+     - [GRASS](http://grass.osgeo.org/) 
+     - [QGIS](http://www.qgis.org/en/site/about/features.html)
+     - [GeoServer](http://geoserver.org/)
+ - javascript
+     - [leaflet](http://leafletjs.com/)
+     - [D3](http://d3js.org/)
+     - [Turf.js](http://turfjs.org/)
+
+# R {.segue-txt}
 
 # R
 
-# Online Identity
+ - Free environment for statistical computing
+ - Best known for:
+     - stats
+     - visualization
+ - 
+ - http://www.r-project.org/
+ 
 
-# Does any of this matter?
+# R
 
-# {.segue-img}
+  - My one stop shop
+  - Writing
+  - Presentations
+  - Analysis
+  - All my geospatial work
+  
+# tangent: online identity {.segue-txt}
 
-![cat_watermelon](figure/cat-pushing-watermelon-out-of-lake.jpg)
+# online identity
+
+> If you are not curating your online identity, 
+> someone or something else is doing it for you.
+> - Jarrett Byrnes, 
+> <span><a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a></span>
+
+# online identity
+
+  - [Google Scholar]()
+  - [Personal Webpage](http://jwhollister.com)
+  - Blog
+  - Twitter
+  - Social Networks
+      - Facebook
+      - Linked-in
+      - ResearchGate
+  
+# does it matter? {.segue-txt}
+
+# does it matter?
+
+ - Open Data = More citations [(Piwowar et al. 2007)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)
+ - Up-to-date statistics on readership [(e.g. PLOS ALM)](http://article-level-metrics.plos.org/)
+ - Accelerates research and discoveries [(e.g. Woelfle et al. 2011)](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html)
+ 
+ <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
+
+ <div style="font-size: 12pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
+
+# does it matter?
+
+ - Plos Article metrics since boosting activity

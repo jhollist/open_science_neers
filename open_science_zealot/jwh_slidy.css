@@ -6,31 +6,31 @@
 /*****************************************************************************/
 div.slide h1.title {
   color: #4A5B63;
-  font-size: 80pt;
+  font-size: 60pt;
   text-align: left;
   padding: 0px;
   margin: 0px;
 }
 
 div.logo img {
-  width: 10%;
+  width: 130px;
   height: auto;
   position: absolute;
-  top: 76%;
-  right: 2%;
+  top: 580px;
+  right: 30px;
 }
 
 div.coverpic img {
-  height: 50%;
+  height: 400px;
   width: auto;
   position: absolute;
-  top: 25%;
-  left: 3%;
+  top: 270px;
+  left: 50px;
 }
 
 div.slide h1.subtitle {
   color: #4A5B63;
-  font-size: 60pt;
+  font-size: 45pt;
   text-align: left;
   padding: 0px;
   margin: 0px;
@@ -38,29 +38,29 @@ div.slide h1.subtitle {
 
 p.author {
   color: #4A5B63;
-  font-size: 40pt;
+  font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 76%;
-  right: 0%;
+  top: 552px;
+  right: 0px;
 }
 
 p.date {
   color: #4A5B63;
-  font-size: 30pt;
+  font-size: 23pt;
   text-align: left;
   position: absolute;
-  top: 89%;
-  right: 1%;
+  top: 652px;
+  right: 7px;
 }
 
 p.twitter {
   color: #4A5B63;
-  font-size: 40pt;
+  font-size: 30pt;
   text-align: left;
   position: absolute;
-  top: 82%;
-  right: 0%;
+  top: 599px;
+  right: 0px;
 }
 
 
@@ -69,12 +69,12 @@ p.twitter {
 /*****************************************************************************/
 div h1 {
   color: #559B6A;
-  font-size: 40pt;
+  font-size: 30pt;
 }
 
 div.slide {
   font-family: "Lucida Console";
-  font-size: 30pt;
+  font-size: 23pt;
   padding-top: 50px;
   padding-left: 50px;
 }
@@ -85,14 +85,22 @@ div.slide {
 
 div.left {
   float: left;
-  width: 45%;
+  width: 400px;
+  height: auto;
+  position: absolute;
+  left: 50px;
+  top: 150px;
   margin: 0;
   padding: 0;
 }
 
 div.right {
   float: right;
-  width: 45%;
+  width: 400px;
+  height: auto;
+  position: absolute;
+  left: 733px;
+  top: 150px;
   margin: 0;
   padding: 0;
 }
@@ -102,23 +110,18 @@ div.right {
 /*****************************************************************************/
 div.segue-img  h1 {
   color: white;
-  font-size: 80pt;
+  font-size: 60pt;
   font-weight: bold;
   position: absolute;
-  margin-top: 30%;
+  margin-top: 230px;
   margin-left: 10%;
 }
 
 div.segue-img img {
-  /* Borrowed from: https://css-tricks.com/perfect-full-page-background-image/*/
   
   /* Set rules to fill background */
-  min-height: 100%;
-  min-width: 1024px;
-  
-  /* Set up proportionate scaling */
-  width: 100%;
-  height: auto;
+  min-height: 768px;
+  min-width: 1366px;
 	
   /* Kill padding */
   margin: 0px;
@@ -136,13 +139,13 @@ div.segue-img {
 }
 
 div.segue-txt  h1 {
-  font-size: 120pt;
+  font-size: 90pt;
   font-weight: bold;
   position: absolute;
-  margin-top: 30%;
-  margin-left: 10%;
-  text-shadow: 4px 4px #929DA1;
-  color: #356595;
+  top: 230px;
+  left: 130px;
+  text-shadow: 3px 3px #E3E9F0;
+  color: #2E3B48;
 }
 
 div.segue-txt {
@@ -150,7 +153,7 @@ div.segue-txt {
   /*background: -o-linear-gradient(#356595,#4A5B63); /* For Opera 11.1 to 12.0 */
   /*background: -moz-linear-gradient(#356595,#4A5B63); /* For Firefox 3.6 to 15 */
   /*background: linear-gradient(#356595,#4A5B63); /* Standard syntax */
-  background-color: #4A5B63;
+  background-color: #808C92;
 }
 
 /*****************************************************************************/
@@ -192,8 +195,8 @@ table tr > td:first-child {
 
 div.img-right img {
   position: absolute; 
-  top: 10%; 
-  left: 50%;
+  top: 76px; 
+  left: 680px;
 }
 
 /*****************************************************************************/
@@ -201,6 +204,6 @@ div.img-right img {
 /*****************************************************************************/
 
 div.img-left img {
-  top: 10%; 
-  left: 10%;
+  top: 76px; 
+  left: 14px;
 }
