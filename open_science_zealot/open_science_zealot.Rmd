@@ -96,7 +96,7 @@ output:
 # how: open data
 <div class="left" style="left:150px; width: 525px;">
 - Gradient of open data
-- Web API
+- APIs
 - Formal Linked Open Data
 </div>
 
@@ -106,6 +106,16 @@ output:
 
 # how: the web!
 
+<div class="left" style="left:150px; width: 525px;">
+ - Old concepts
+ - New tools
+ - New implementation
+</div>
+
+<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+  ![web_graph](figure/Internet_map_1024_-_transparent.png)
+  <div style="font-size: 12pt;">image credit: [opte.org](http://www.opte.org/maps/) </div>
+</div>
 # becoming a zealot {.segue-txt}
 
 # becoming a zealot
@@ -137,7 +147,7 @@ output:
  
  <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
 
- <div style="font-size: 16pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
+ <div style="font-size: 12pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
 
 # does it matter?
 
