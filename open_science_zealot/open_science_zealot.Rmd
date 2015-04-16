@@ -157,7 +157,7 @@ output:
 <div class="left" style="left:150px; width: 525px;">
  - collaborations
      - [\@ropensci](http://twitter.com/ropensci)
-     - [\@softwarecarpentry](http://twitter.com/softwarecarpentry)
+     - [\@softwarecarpentry](http://twitter.com/swcarpentry)
      - [\@datacarpentry](http://twitter.com/datacarpentry)
      - [\@MozillaScience](http://twitter.com/MozillaScience)
  - [\#icanhazpdf](http://twitter.com/hashtag/icanhazpdf)
