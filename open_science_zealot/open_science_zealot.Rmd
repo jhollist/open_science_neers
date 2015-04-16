@@ -112,7 +112,7 @@ output:
  - New implementation
 </div>
 
-<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<div class="right" style="left: 650px; top: 110px; width: 250px; height: auto;"> 
   ![web_graph](figure/Internet_map_1024_-_transparent.png)
   <div style="font-size: 12pt;">image credit: [opte.org](http://www.opte.org/maps/) </div>
 </div>
@@ -128,7 +128,7 @@ output:
      - R
 </div>
 
-<div class="right" style="left: 500px; top: 110px; width: 250px; height: auto;"> 
+<div class="right" style="left: 500px; top: 15px; width: 250px; height: auto;"> 
   ![twitter_assimilated](figure/Assimilated.jpg)
   <div style="font-size: 12pt;">image credit: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg) </div>
 </div>
@@ -169,7 +169,7 @@ output:
  - low time investment
 </div>
 
-<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<div class="right" style="left: 650px; top: 80px; width: 250px; height: auto;"> 
   ![twitter_onion](figure/twitter_onion.jpg)
   <div style="font-size: 12pt;">image credits: [The Onion](https://twitter.com/TheOnion/status/588041206673895424)
   </div>
@@ -187,7 +187,7 @@ output:
   
 </div>
 
-<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<div class="right" style="left: 650px; top: 110px; width: 250px; height: auto;"> 
 [![jhollist_github](figure/jwh_github.jpg)](http://github.com/jhollist)
 </div>
 
@@ -209,13 +209,13 @@ output:
 # R
 
  - Free environment for statistical computing
+ - Very active community 
+ - Extended with Packages (6533 as of 4/15/15)
  - Best known for:
      - stats
      - visualization
- - 
- - http://www.r-project.org/
+ - But also a general purpose languages
  
-
 # R
 
   - My one stop shop
@@ -224,18 +224,27 @@ output:
   - Analysis
   - All my geospatial work
   
+# R Highlights
+
+  - Maps in R
+      - [Example 1](http://spatialanalysis.co.uk/wp-content/uploads/2012/02/bike_ggplot.png)
+      - [Example 2](http://paulbutler.org/archives/visualizing-facebook-friends/facebook_map.png)
+  - Shiny
+      - [Example 1](http://www.davesteps.com/sst/)
+      - [Example 2](https://rasmusab.shinyapps.io/drinkr/)
+  
 # tangent: online identity {.segue-txt}
 
 # online identity
 
 > If you are not curating your online identity, 
 > someone or something else is doing it for you.
-> - Jarrett Byrnes, 
-> <span><a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a></span>
+
+    - Jarrett Byrnes, [i'm a chordata, urachordata](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science)
 
 # online identity
 
-  - [Google Scholar]()
+  - [Google Scholar](http://scholar.google.com/citations?user=Fn9BjfIAAAAJ&hl=en)
   - [Personal Webpage](http://jwhollister.com)
   - Blog
   - Twitter
@@ -256,6 +265,14 @@ output:
 
  <div style="font-size: 12pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
 
-# does it matter?
+# wrap-up {.seque-txt}
 
- - Plos Article metrics since boosting activity
+# wrap-up
+
+ - "Emergining Issues and Novel Technologies in Coastal Ecosystem Science"
+ 
+ >- Take Home: 
+     - Openeness increases the reach and impact of your science
+     - It isn't all or nothing - be a little more open when you can
+
+
