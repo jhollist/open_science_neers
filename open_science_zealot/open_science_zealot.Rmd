@@ -129,9 +129,8 @@ output:
      - R
 </div>
 
-<div class="right" style="left: 600px; top: 15px; height: auto;"> 
-  ![twitter_assimilated](figure/Assimilated.jpg)
-  <div style="font-size: 12pt;">image credit: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg) </div>
+<div class="right" style="left: 600px; top: 50px; height: auto;"> 
+  ![twitter_assimilated](figure/The_Tragic_Prelude_crop.jpg)
 </div>
 
 # twitter {.segue-txt}
@@ -163,7 +162,7 @@ output:
      - [\@MozillaScience](http://twitter.com/MozillaScience)
  - [\#icanhazpdf](http://twitter.com/hashtag/icanhazpdf)
  - [\#rstats](http://twitter.com/hashtag/rstats)
- - live-tweet meetings
+ -  live-tweet meetings
      - [\#neers2015](http://twitter.com/hashtag/neers2015) 
  - low time investment
 </div>
