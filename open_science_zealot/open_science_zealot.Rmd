@@ -144,7 +144,7 @@ output:
       - [\@jhollist](http://twitter.com/jhollist)
       - [\@AJO4444](http://twitter.com/ajo4444)
       - [\@CoastalSociety](http://twitter.com/CoastalSociety)
-      - [\#openscience]](https://twitter.com/hashtag/openscience)
+      - [\#openscience](https://twitter.com/hashtag/openscience)
 </div>
 
 <div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
