@@ -81,7 +81,6 @@ output:
           - but often also beer
       - Open Source
   - MANY examples
-      - QGIS
       - GRASS
       - R
       - Python
@@ -128,7 +127,7 @@ output:
      - R
 </div>
 
-<div class="right" style="left: 500px; top: 15px; width: 250px; height: auto;"> 
+<div class="right" style="left: 600px; top: 15px; height: auto;"> 
   ![twitter_assimilated](figure/Assimilated.jpg)
   <div style="font-size: 12pt;">image credit: [Hill and Seiple](http://juice-marketing.com/blog/wp-content/uploads/2012/10/4441164310_3b574edf0d_o.jpg) </div>
 </div>
@@ -140,7 +139,6 @@ output:
 <div class="left" style="left:150px; width: 525px;">
   - Micro-blogging site
   - Limited to 140 Characters
-  - Purpose: Share what you want, but keep it short (my definition)
   - Followers, Following, Tweets, handles, hashtags
       - @jhollist
       - @AJO4444
@@ -164,8 +162,7 @@ output:
  - \#icanhazpdf
  - \#rstats
  - live-tweet meetings
-     - \#neers2015
-     - \#openscience
+     - \#neers2015 \#openscience
  - low time investment
 </div>
 
