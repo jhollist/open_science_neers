@@ -270,6 +270,6 @@ output:
      - Openeness increases the reach and impact of your science
      - It isn't all or nothing - be a little more open when you can
  - Any questions about any of this, don't hesitate to contact me
-     - [\@jhollist](http://twiter.com/jhollist)
+     - [\@jhollist](http://twitter.com/jhollist)
      - hollister.jeff@epa.gov
 
