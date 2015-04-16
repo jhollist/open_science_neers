@@ -239,7 +239,7 @@ output:
 
 *If you are not curating your online identity, someone or something else is doing it for you.*
 
-  - Jarrett Byrnes, [i'm a chordata, urachordata](http://www.imachordata.com/which-social-media-platform-should-i-use-for-science)
+  - Jarrett Byrnes, <a href="http://www.imachordata.com/which-social-media-platform-should-i-use-for-science">i'm a chordata, urachordata</a>
 
 # online identity
 
