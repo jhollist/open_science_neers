@@ -142,10 +142,10 @@ output:
   - Micro-blogging site
   - Limited to 140 Characters
   - Followers, Following, Tweets, handles, hashtags
-      - @jhollist
-      - @AJO4444
-      - @CoastalSociety
-      - \#openscience
+      - [\@jhollist](http://twitter.com/jhollist)
+      - [\@AJO4444](http://twitter.com/ajo4444)
+      - [\@CoastalSociety](http://twitter.com/CoastalSociety)
+      - [\#openscience]](https://twitter.com/hashtag/openscience)
 </div>
 
 <div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
@@ -157,14 +157,14 @@ output:
 
 <div class="left" style="left:150px; width: 525px;">
  - collaborations
-     - @ropensci
-     - @softwarecarpentry
-     - @datacarpentry
-     - @MozillaScience
- - \#icanhazpdf
- - \#rstats
+     - [\@ropensci](http://twitter.com/ropensci)
+     - [\@softwarecarpentry](http://twitter.com/softwarecarpentry)
+     - [\@datacarpentry](http://twitter.com/datacarpentry)
+     - [\@MozillaScience](http://twitter.com/MozillaScience)
+ - [\#icanhazpdf](http://twitter.com/hashtag/icanhazpdf)
+ - [\#rstats](http://twitter.com/hashtag/rstats)
  - live-tweet meetings
-     - \#neers2015 \#openscience
+     - [\#neers2015](http://twitter.com/hashtag/neers2015) 
  - low time investment
 </div>
 
