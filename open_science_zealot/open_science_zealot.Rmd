@@ -62,6 +62,8 @@ output:
       - Green
       - Gold
       - Hybrid
+  - Pre-prints
+  - [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/)
 </div>
 
 <div class="right" style="left: 750px; top: 50px; width: 250px; height: auto;"> 
