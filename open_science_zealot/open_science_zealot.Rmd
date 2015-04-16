@@ -231,6 +231,18 @@ output:
       - [Example 1](http://www.davesteps.com/sst/)
       - [Example 2](https://rasmusab.shinyapps.io/drinkr/)
   
+# does it matter? {.segue-txt}
+
+# does it matter?
+
+ - Open Data = More citations [(Piwowar et al. 2007)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)
+ - Up-to-date statistics on readership [(e.g. PLOS ALM)](http://article-level-metrics.plos.org/)
+ - Accelerates research and discoveries [(e.g. Woelfle et al. 2011)](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html)
+ 
+ <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
+
+ <div style="font-size: 12pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
+
 # tangent: online identity {.segue-txt}
 
 # online identity
@@ -250,18 +262,6 @@ output:
       - Linked-in
       - ResearchGate
   
-# does it matter? {.segue-txt}
-
-# does it matter?
-
- - Open Data = More citations [(Piwowar et al. 2007)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308)
- - Up-to-date statistics on readership [(e.g. PLOS ALM)](http://article-level-metrics.plos.org/)
- - Accelerates research and discoveries [(e.g. Woelfle et al. 2011)](http://www.nature.com/nchem/journal/v3/n10/full/nchem.1149.html)
- 
- <img alt="benefits_examples" src="figure/benefits_examples.jpg" height="325px">
-
- <div style="font-size: 12pt;">[Piwowar et al. 2007](http://dx.doi.org/10.1371/journal.pone.0000308.g001) and [Impact Story Metrics](https://impactstory.org/JeffreyHollister/product/oiaf96qu7o20qlxb0i2s7i2h)</div>
-
 # wrap-up {.segue-txt}
 
 # wrap-up
