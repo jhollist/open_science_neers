@@ -90,7 +90,7 @@ output:
       - Linux
 </div>
 
-<div class="right" style="left: 750px; top: 110px; width: 250px; height: auto;"> 
+<div class="right" style="left: 750px; top: 80px; width: 250px; height: auto;"> 
   ![open_access](figure/opensource_logos.jpg)
 </div>
 
