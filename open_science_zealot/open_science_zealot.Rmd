@@ -2,7 +2,7 @@
 title: "open science:"
 subtitle: "a zealot's view"
 author: "Jeff Hollister, USEPA"
-date: April 17, 2015
+date: April 16, 2015
 twitter: jhollist 
 coverpic: figure/John_Brown_Painting.JPG
 output: 
